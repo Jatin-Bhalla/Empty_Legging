@@ -11,3 +11,12 @@ So this might be once in a BLUE moon's chance which honestly I wouldn't like to 
 When you fly a private jet, you can show up at the airport minutes before takeoff. The security process happens in instants. You can bring a pet, eat off fine china and sit in tufted seats with your best friends. You'll fly to places the regular planes don't go, because you're not on a regular plane.
 
 
+Other possible ideas for the project:
+in terms of jet sharing options you can:
+
+    Buy seats on scheduled flights much like the airlines.
+    Join a crowd-sourced flight and see if another folks sign-up so it actually takes off.
+    Look for crowd-sourced flights that have enough people already committed so you know it will be going.
+    Join a membership program that lets you share with other members of the group.
+    Join a membership program where you pay a monthly fee and fly as much as you want for free.
+    Start your own crowd-sourced flight and see if you can get enough folks to share with you.
