@@ -20,3 +20,6 @@ in terms of jet sharing options you can:
     Join a membership program that lets you share with other members of the group.
     Join a membership program where you pay a monthly fee and fly as much as you want for free.
     Start your own crowd-sourced flight and see if you can get enough folks to share with you.
+    
+   
+   https://www.forbes.com/sites/douggollan/2020/08/19/how-to-get-the-private-jet-experience-starting-at-79/?sh=105d7a8f73f2
