@@ -7,3 +7,7 @@ This program/website/app will allow us to look at possible flights and flight pa
 
 Deals like these, however, don't happen every day.
 So this might be once in a BLUE moon's chance which honestly I wouldn't like to miss.
+
+When you fly a private jet, you can show up at the airport minutes before takeoff. The security process happens in instants. You can bring a pet, eat off fine china and sit in tufted seats with your best friends. You'll fly to places the regular planes don't go, because you're not on a regular plane.
+
+
