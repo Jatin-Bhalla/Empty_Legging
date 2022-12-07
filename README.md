@@ -23,3 +23,45 @@ in terms of jet sharing options you can:
     
    
    https://www.forbes.com/sites/douggollan/2020/08/19/how-to-get-the-private-jet-experience-starting-at-79/?sh=105d7a8f73f2
+
+
+App:
+
+
+
+
+Website:
+
+
+     Front End : React 
+
+     Back end  : 
+              
+                 Java   : Spring
+                 
+                 Python : Flask - Django
+                 =
+                 
+                 protocolbuffer/grpc--------json?
+                 
+           PAYMENT GATEWAY:
+                             Razorpay
+                             Stripe
+                             Paytm
+                             Chase for business
+           API : Graph QL
+                 Userauthentication :Auth0
+                 Twilio
+           
+           DATABASE:
+                SQL<Mysql>
+                redis #cache layering
+                ....server side runtime :Nodejs ,Nestjs <supports Typescript>
+                ....onbject relational mapper : Type ORM
+                
+                Server Framework : NGNIX
+                                  <wayyy later> Docker, Kubernetes
+                
+                Cloud Support    : AWS?
+                
+                Nosql (MongoDB, Cloud Firestore
