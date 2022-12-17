@@ -65,3 +65,13 @@ Website:
                 Cloud Support    : AWS?
                 
                 Nosql (MongoDB, Cloud Firestore
+                
+                SSO Based on Data fetched:
+                
+                XML : SAML
+                JSON : Open ID
+                
+                
+                
+                
+          
