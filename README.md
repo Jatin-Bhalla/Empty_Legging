@@ -33,45 +33,49 @@ App:
 Website:
 
 
-     Front End : React 
+     *Front End : React 
 
-     Back end  : 
+     
+     
+     *Back end  : 
               
-                 Java   : Spring
+                 *Java   : Spring
                  
-                 Python : Flask - Django
+                 
+                 *Python : Flask - Django
                  =
                  
                  protocolbuffer/grpc--------json?
                  
-           PAYMENT GATEWAY:
+           
+          *PAYMENT GATEWAY:
                              Razorpay
                              Stripe
                              Paytm
                              Chase for business
-           API : Graph QL
+          * API : Graph QL
                  Userauthentication :Auth0
                  Twilio
            
-           DATABASE:
+          *DATABASE:
                 SQL<Mysql>
                 redis #cache layering
                 ....server side runtime :Nodejs ,Nestjs <supports Typescript>
                 ....onbject relational mapper : Type ORM
                 
-                Server Framework : NGNIX
+                *Server Framework : NGNIX
                                   <wayyy later> Docker, Kubernetes
                 
-                Cloud Support    : AWS?
+                *Cloud Support    : AWS?
                 
-                Nosql (MongoDB, Cloud Firestore
+                *Nosql (MongoDB, Cloud Firestore
                 
-                SSO Based on Data fetched:
+                *SSO Based on Data fetched:
                 
                 XML : SAML
                 JSON : Open ID
                 
-                
+                *iDENTITY PROVIDERS : Auth0 , okta ,onlogin
                 
                 
           
